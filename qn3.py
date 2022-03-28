@@ -1,6 +1,29 @@
 # Create another Python project, 
 # repeat the Question 2b and 2c from Laboratory Wk01
 
+# Program output (Question 2b):
+# Object-Oriented Programming
+
+# Program output (Question 2c):
+# value of x :  101
+# value of x :  99
+# value of x :  97
+# value of x :  95
+# value of x :  93
+# value of x :  91
+# value of x :  89
+# value of x :  87
+# value of x :  85
+# value of x :  83
+# value of x :  81
+# value of x :  79
+# value of x :  77
+# value of x :  75
+# value of x :  73
+# value of x :  71
+# value of x :  69
+# value of x :  67
+
 # module class
 class Module:
     # constructor
