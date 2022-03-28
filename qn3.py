@@ -24,13 +24,24 @@ class Module:
         except:
             print("Unknown Module")
 
+# def loop to print out odd number in descending order starting from 102 and ending with 66
+
+def printOddLoop():
+    for x in range(102, 65, -1):
+        if x % 2 == 1:
+            print("value of x : ", x)
+
 # define main method
 def main():
+    #qn2b of lab wk01
     # initiate object
     m = Module("CSC1009")
     #call method to print module name
     m.printModuleName()
 
+    #qn2b of lab wk01
+    printOddLoop()
+    
 # check name and run main
 if __name__ == '__main__':
     main()
